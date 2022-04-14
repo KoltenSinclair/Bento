@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Ramport',
+			icon: 'book',
+			link: 'https://ramport.angelo.edu',
 		},
 		{
 			id: '5',
@@ -144,7 +144,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Operator',
-					link: 'operator.angelo.edu',
+					link: 'https://operator.angelo.edu',
 				},
 				{
 					name: 'WLC',
